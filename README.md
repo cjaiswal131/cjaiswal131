@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chandan Kumar and a software engineer from computer sceince background.
+- 👋 Hi, I’m Chandan Kumar and a software engineer from computer science background.
 - 👀 I’m interested in Python programming, Django, Data analysis, Machine Learning, Data Science, Databases(slq and nosql)
 - 🌱 I’m currently learning machine learning and data science
 - 💞️ I’m looking to collaborate on machine learning.
